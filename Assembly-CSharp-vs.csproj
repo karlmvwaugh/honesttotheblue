@@ -50,6 +50,7 @@
      <Compile Include="Assets\OpacityAndSwap.cs" />
      <Compile Include="Assets\Oscillator.cs" />
      <Compile Include="Assets\OverlaySlider.cs" />
+     <Compile Include="Assets\RandomOscillator.cs" />
      <Compile Include="Assets\TheRandom.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

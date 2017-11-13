@@ -1,8 +1,10 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="../OpArt/Assets/stayAwake.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/RandomOscillator.cs">
     <Files>
-      <File FileName="../OpArt/Assets/stayAwake.cs" Line="8" Column="50" />
+      <File FileName="Assets/Oscillator.cs" Line="25" Column="2" />
+      <File FileName="Assets/AudioEater.cs" Line="18" Column="23" />
+      <File FileName="Assets/RandomOscillator.cs" Line="19" Column="13" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
